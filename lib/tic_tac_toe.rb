@@ -139,6 +139,3 @@ def play(board)
   end
 end
 
-#board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
-#play(board)
